@@ -25,10 +25,10 @@ const Navbar = () =>{
                         <a class="nav-link text-light" href="#Skills">Skills</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-light" href="#WorkExp">Work Exp.</a>
+                        <a class="nav-link text-light" href="#WorkExp">Work Experience</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-light" href="#ExtraExp">Extra Exp.</a>
+                        <a class="nav-link text-light" href="#ExtraExp">Extracurriculars</a>
                     </li>
                 </ul>
             </div>

@@ -11,9 +11,9 @@ const AboutMe = () =>{
                 <div class="media-body ml-5 mr-5" >
                     <h1 class="mt-5" style={headFontSize}>About me!</h1>
                     <p style={parFontSize}>Hello! My name is Matthew Kresge and I am currently seeking an opportunity to work in a full stack development position, preferrably in web development.
-                    I graduated from Rowan University in May of 2023 with a B.S. in computer science.
+                    I graduated from Rowan University in May of 2023 with a B.S. in Computer Science.
                     My time as an undergraduate at Rowan taught me much about front-end and back-end coding in the context of web development.
-                    Since graduating, I have continued to further my knowledge by pursueing the IBM Full Stack Software Developer Professional Certificate.
+                    Since graduating, I have continued to further my knowledge by pursuing the IBM Full Stack Software Developer Professional Certificate.
                     </p>
                     <a href="https://www.linkedin.com/in/matthew-kresge-04441a280/" style={parFontSize}>My LinkedIn<br/></a>
                     <a href="https://github.com/matt-kresge" style={parFontSize}>My Github</a>

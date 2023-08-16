@@ -25,7 +25,7 @@ const ExtraExperience = () =>{
                     <h1 class="mt-5" style={headFontSize}>Rowan University Climbing Club</h1>
                     <p style={smallFontSize}>Secretary</p>
                     <ul style={parFontSize}>
-                        <li>Assisted in revitalizing the club after it's nearly 2 years of inactivity</li>
+                        <li>Assisted in revitalizing the club after nearly 2 years of inactivity</li>
                         <li>Planned and attended events to increase the club's size and activity</li>
                     </ul>
                 </div>
