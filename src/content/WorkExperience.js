@@ -1,6 +1,7 @@
 import React from 'react';
 import Lowes from './logo/Lowes.png';
 import Redners from './logo/Redners.png';
+import Target from './logo/Target.png';
 
 const WorkExperience = () =>{
     const smallFontSize={fontSize: "1vw"};
@@ -28,6 +29,17 @@ const WorkExperience = () =>{
                     <ul style={parFontSize}>
                         <li>Assisted customers with sales transactions. Handled cash, check and credit card payments</li>
                         <li>Helped with restocking when the store was slow or the cashiers were overstaffed</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="media bg-dark text-light">
+                <img class="align-self-center ml-3"src={Target} width="20%" height="auto"/>
+                <div class="media-body ml-5 mr-5 mb-3" >
+                    <h1 class="mt-5" style={headFontSize}>Target: Truck Unloader, Stocker</h1>
+                    <p style={smallFontSize}>August 2023 - Present<br/>Reading, PA</p>
+                    <ul style={parFontSize}>
+                        <li>Unload/organize product from inbound truck and stock shelves while assisting customers in a fast paced environment</li>
+                        <li>Work independently and as a team to solve unique and evolving challenges</li>
                     </ul>
                 </div>
             </div>  
