@@ -14,7 +14,7 @@ const Education = () => {
                 Minor: Mathematics <br/>
                 Concentration: Graphics, Visualization and Gaming Technology</p>
                 <h1 class="mt-3 ml-3" style={largeFontSize}><br/>IBM Full Stack Software Developer Professional Certificate</h1>
-                <p class="ml-3" style={smallFontSize}>Expected Completion Date: November 2023</p>
+                <p class="ml-3" style={smallFontSize}>Expected Completion Date: December 2023</p>
             </div>
         </a>
     );

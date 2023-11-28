@@ -13,7 +13,7 @@ const Skills = () => {
         <a id="Skills">
             <hr/>
             <h1 style={headFontSize} class="text-center">Skills</h1>
-            <div class="row align-items-start text-center mt-5 ml-3 mr-3">
+            <div class="row align-items-start text-center mt-5 ml-1 mr-1">
                 <div class="col border border-dark rounded ml-1">
                     <img src={HTML5_logo} width="50%" height="auto"/>
                     <h1 style={headFontSize}>HTML5</h1>
